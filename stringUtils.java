@@ -1,1 +1,1 @@
-this file contains string related fumction
+this file contains string related fumction..updatting the file
